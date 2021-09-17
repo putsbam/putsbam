@@ -4,19 +4,11 @@
 ```js
 import Dev from 'putsbam';
 
-class About extends Dev {
-
-  callMeBy = 'Bam';
-  mainArea = 'Front-End/Back-End' || 'Artist';
-  livesIn = 'Brazil';
-  
-}
-
 class Skills extends Dev {
 
   someLangs = ['JavaScript', 'Java', 'C', 'HTML', 'CSS'];
   someFrameworks = ['Node', 'React', 'Vue', 'Electron', 'Express'];
-  otherStuff = ['Arduino', 'PhotoshopCS6', 'PaintToolSAI', 'ClipStudioPaint']
+  otherStuff = ['Arduino', 'MSOffice', 'PhotoshopCS6', 'HardwareBasics']
   
 }
 ```
