@@ -1,5 +1,5 @@
 
-<img align="right" width="280" src="https://cdn.discordapp.com/attachments/752256861545299990/888464326023860274/IMG-20200106-WA0002.jpg" />
+<img align="right" width="280" src="https://media.licdn.com/dms/image/v2/C5612AQE-J2HIbxAgyQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520093510220?e=2147483647&v=beta&t=dDbjHT0q6MKr3p45DI6O3gOs0quNJ5YB7bzA8HlRmGA" />
 
 ```js
 import Dev from 'putsbam';
