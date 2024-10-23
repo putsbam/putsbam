@@ -6,7 +6,7 @@ import Dev from 'putsbam';
 
 class Skills extends Dev {
 
-  langs = ['JavaScript', 'HTML', 'CSS', 'C', 'Python', 'Java', ];
+  langs = ['JavaScript', 'HTML', 'CSS', 'C', 'Python', 'Java'];
   frameworks = ['Node', 'Vue', 'Electron', 'Express'];
   dataBases = ['SQLite', 'MongoDB', 'Firebase'];
   otherStuff = ['Linux', 'Arduino', 'MSOffice', 'Adobe']
