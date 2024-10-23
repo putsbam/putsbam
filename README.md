@@ -9,7 +9,7 @@ class Skills extends Dev {
   langs = ['JavaScript', 'Java', 'C', 'HTML', 'CSS'];
   frameworks = ['Node', 'Vue', 'Electron', 'Express'];
   dataBases = ['SQLite', 'MongoDB', 'Firebase'];
-  otherStuff = ['Linux', 'Arduino', 'MSOffice', 'PhotoshopCS6']
+  otherStuff = ['Linux', 'Arduino', 'MSOffice', 'Adobe']
   
 }
 ```
